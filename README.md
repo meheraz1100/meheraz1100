@@ -8,7 +8,7 @@
 - 📫 How to reach me **<mosaiyebmeheraz@gmail.com>**
 
 <h3 align="left">About Me : </h3>
-<h3>hi i am meheraj i am web developer from bangladesh. I know react to intermediate and I have basic knowledge about MongoDB ExpressJS and NodeJS</h3>
+<h3>HI,  I am Meheraz I am a Front end Web Developer from Bangladesh. I know react to intermediate and I have basic knowledge about MongoDB ExpressJS and NodeJS</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
