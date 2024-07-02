@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **<mosaiyebmeheraz@gmail.com>**
 
+<h3 align="left">About Me : </h3>
+<h3>hi i am meheraj i am web developer from bangladesh. I know react to intermediate and I have basic knowledge about MongoDB ExpressJS and NodeJS</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://web.facebook.com/profile.php?id=100076374422814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saimonbhuiyan4u" height="30" width="40" /></a>
