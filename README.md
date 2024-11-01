@@ -15,12 +15,18 @@
 <a href="https://web.facebook.com/profile.php?id=100076374422814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saimonbhuiyan4u" height="30" width="40" /></a>
 </p>
 
-## :chart_with_upwards_trend: Current Stats
+<br>
 
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=meheraz1100&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
+
+### 📊 Github Stats
+<a href='https://github.com/meheraz1100/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/meheraz1100/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/meheraz1100/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
 
 ## :computer: Technologies that I know
 
@@ -32,6 +38,7 @@
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
