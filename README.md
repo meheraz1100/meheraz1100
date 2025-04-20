@@ -8,11 +8,23 @@
 - 📫 How to reach me **<mosaiyebmeheraz@gmail.com>**
 
 <h3 align="left">About Me : </h3>
-<h3>HI,  I am Meheraz I am a Front end Web Developer from Bangladesh. I know react to intermediate and I have basic knowledge about MongoDB ExpressJS and NodeJS</h3>
+<h2 align="left">About</h2>
+
+###
+
+  <ul>
+    <li>🔭 - I’m currently working on Skill Building</li>
+    <li>🌱 - I’m currently learning Mongoose</li>
+    <li>💬 - Ask me about JavaScript, React, Typescript</li>
+    <li>📫 - How to reach me: <mosaiyebmeheraz@gmail.com></li>
+    <li>⚡ - Fun fact: Nothing's Special!</li>
+  </ul>
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://web.facebook.com/profile.php?id=100076374422814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saimonbhuiyan4u" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100076374422814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Meheraz" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -42,19 +54,38 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img width="5" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
 </p><br/>
