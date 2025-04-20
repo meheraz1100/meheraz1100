@@ -18,11 +18,21 @@
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/meheraz1100/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/meheraz1100/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/meheraz1100/github-stats-transparent/output/generated/languages.svg)
+###
+
+<h2 align="left">Stats:</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meheraz1100&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=My%20Github%20Status" height="105" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meheraz1100&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="105" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=meheraz1100&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=10&order=3" height="110" alt="streak graph"  />
+</div>
+
+###
 
 </a>
 
