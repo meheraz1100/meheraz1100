@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **<mosaiyebmeheraz@gmail.com>**
 
-<h3 align="left">About Me : </h3>
-<h2 align="left">About</h2>
+
+<h2 align="left">About Me: </h2>
 
 ###
 
@@ -16,7 +16,7 @@
     <li>🔭 - I’m currently working on Skill Building</li>
     <li>🌱 - I’m currently learning Mongoose</li>
     <li>💬 - Ask me about JavaScript, React, Typescript</li>
-    <li>📫 - How to reach me: <mosaiyebmeheraz@gmail.com></li>
+    <li>📫 - How to reach me: mosaiyebmeheraz@gmail.com</li>
     <li>⚡ - Fun fact: Nothing's Special!</li>
   </ul>
 
