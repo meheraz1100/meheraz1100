@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meheraz</h1>
 <h3 align="center">A passionate Website Developer from Bangladesh.</h3>
+<img width="1983" height="793" alt="github banner" src="https://github.com/user-attachments/assets/ac09bc18-66fe-4f0d-bdff-f8bea18e1fb0" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meheraz1100&label=Profile%20views&color=0e75b6&style=flat" alt="meheraz1100" /> </p>
 
