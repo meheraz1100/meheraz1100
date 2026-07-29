@@ -1,13 +1,3 @@
-<picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/meheraz1100/meheraz1100/main/dark.svg">
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/meheraz1100/meheraz1100/main/light.svg">
-<img alt="Meheraz" src="https://raw.githubusercontent.com/meheraz1100/meheraz1100/main/
-light.svg">
-</picture>
-
-
 <h1 align="center">Hi 👋, I'm Meheraz</h1>
 <h3 align="center">A passionate Website Developer from Bangladesh.</h3>
 <img width="1983" height="793" alt="github banner" src="https://github.com/user-attachments/assets/ac09bc18-66fe-4f0d-bdff-f8bea18e1fb0" />
@@ -24,7 +14,7 @@ light.svg">
 ###
 
   <ul>
-    <li>🔭 - I’m currently working on Skill Building</li>
+    <li>🔭 - I’m currently working on Project : DevHQ</li>
     <li>🌱 - I’m currently learning Mongoose</li>
     <li>💬 - Ask me about JavaScript, React, Typescript</li>
     <li>📫 - How to reach me: mosaiyebmeheraz@gmail.com</li>
