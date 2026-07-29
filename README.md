@@ -34,9 +34,22 @@ light.svg">
 ###
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://web.facebook.com/meheraz1100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Meheraz" height="30" width="60" /></a>
-</p>
+<div align="center">
+<a href="https://www.linkedin.com/in/dev-mosaiyebmeheraz/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge
+&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/meheraz1100/">
+<img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge
+&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mosaiyebmeheraz@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge
+&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+</div>
 
 <br>
 
@@ -52,6 +65,19 @@ light.svg">
 <div align="center">
   
   <img src="https://streak-stats.demolab.com?user=meheraz1100&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=10&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/meheraz1100/meheraz1100/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/meheraz1100/meheraz1100/output/github-snake.svg" />
+<img alt="Snake eating my contributions"
+src="https://raw.githubusercontent.com/meheraz1100/meheraz1100/output/github-snake.svg" />
+</picture>
 </div>
 
 ###
