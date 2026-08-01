@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meheraz</h1>
+I'm **Mosaiyeb Meheraz**, a passionate Frontend & MERN Stack Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications.
 
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
@@ -22,12 +22,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meheraz1100&label=Profile%20views&color=0e75b6&style=flat" alt="meheraz1100" /> </p>
 
-- 🌱 I’m currently learning **Web Development, Frontend Development**
-
-- 📫 How to reach me **<mosaiyebmeheraz@gmail.com>**
+I'm currently pursuing a **Diploma in Telecommunication & Electrical Technology** at **Feni Government Computer Institute (FGCI)**. Alongside my academic journey, I continuously improve my development skills by building real-world projects and learning modern web technologies.
 
 
 <h2 align="left">About Me: </h2>
+
+To start my career as a Frontend or MERN Stack Developer where I can contribute to impactful products, improve my technical expertise, and grow into a professional software engineer while solving real-world problems.
 
 ###
 
