@@ -3,11 +3,11 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
-<picture>
+<picture align="center">
   <img
     src="https://github.com/meheraz1100/meheraz1100/blob/main/dark_bottom.svg"
     alt="Meheraz Banner"
-    width="500"
+    width="400"
   />
 </picture>
 
@@ -18,7 +18,7 @@
   <img alt="Mosaiyeb Meheraz" src="https://github.com/meheraz1100/meheraz1100/blob/main/light.svg">
 </picture> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meheraz1100&label=Profile%20views&color=0e75b6&style=flat" alt="meheraz1100" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=meheraz1100&label=Profile%20views&color=0e75b6&style=flat" alt="meheraz1100" /> </p>
 
 - 🌱 I’m currently learning **Web Development, Frontend Development**
 
@@ -45,12 +45,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge
 &logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/meheraz1100/">
 <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge
 &logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
 </a>
-&nbsp;&nbsp;
+
 <a href="mailto:mosaiyebmeheraz@gmail.com">
 <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge
 &logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
