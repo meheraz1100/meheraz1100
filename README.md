@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Meheraz</h1>
-<h3 align="center">A passionate Website Developer from Bangladesh.</h3>
-<img width="1983" height="793" alt="github banner" src="https://github.com/user-attachments/assets/ac09bc18-66fe-4f0d-bdff-f8bea18e1fb0" />
 
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
