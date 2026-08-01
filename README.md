@@ -5,9 +5,13 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/meheraz1100/meheraz1100/blob/main/dark.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/meheraz1100/meheraz1100/blob/main/dark_bottom.svg">
   
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/meheraz1100/meheraz1100/blob/main/light.svg">
-  <img alt="Arif Hasan" src="https://github.com/meheraz1100/meheraz1100/blob/main/light.svg">
+  <img alt="Mosaiyeb Meheraz" src="https://github.com/meheraz1100/meheraz1100/blob/main/light.svg">
 </picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meheraz1100&label=Profile%20views&color=0e75b6&style=flat" alt="meheraz1100" /> </p>
