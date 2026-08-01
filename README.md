@@ -2,14 +2,16 @@
 
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+<div align="center">
 
-<picture align="center">
+<picture >
   <img
     src="https://github.com/meheraz1100/meheraz1100/blob/main/dark_bottom.svg"
     alt="Meheraz Banner"
-    width="400"
+    width="300"
   />
 </picture>
+</div>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/meheraz1100/meheraz1100/blob/main/dark_bottom.svg">
