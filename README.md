@@ -4,7 +4,15 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/meheraz1100/meheraz1100/blob/main/dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/meheraz1100/meheraz1100/main/dark.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/meheraz1100/meheraz1100/main/dark.svg"
+    alt="Meheraz Banner"
+    width="500"
+  />
 </picture>
 
 <picture>
