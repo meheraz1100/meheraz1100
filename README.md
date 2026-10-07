@@ -1,29 +1,40 @@
-I'm **Mosaiyeb Meheraz**, a passionate Frontend & MERN Stack Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications.
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img
+        src="https://github.com/meheraz1100/meheraz1100/blob/main/dark_bottom.svg"
+        alt="Meheraz Banner"
+        width="280"
+      />
+    </td>
+    <td width="65%" valign="middle">
+      <h2>Hi 👋, I'm Mosaiyeb Meheraz</h2>
+      <p>
+        I'm a passionate <strong>Frontend & MERN Stack Developer</strong>
+        from Bangladesh who enjoys building modern, responsive, and
+        user-friendly web applications.
+      </p>
+      <p>
+        I'm currently pursuing a
+        <strong>Diploma in Telecommunication & Electrical Technology</strong>
+        at <strong>Feni Government Computer Institute (FGCI)</strong>.
+      </p>
+      <p>
+        Alongside my academic journey, I continuously improve my development
+        skills by building real-world projects and learning modern web
+        technologies.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
-<div align="center">
-
-<picture >
+<!-- ===== PROFILE VIEWS ===== -->
+<p align="center">
   <img
-    src="https://github.com/meheraz1100/meheraz1100/blob/main/dark_bottom.svg"
-    alt="Meheraz Banner"
-    width="300"
+    src="https://komarev.com/ghpvc/?username=meheraz1100&label=Profile%20views&color=0e75b6&style=flat"
+    alt="meheraz1100"
   />
-</picture>
-</div>
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/meheraz1100/meheraz1100/blob/main/dark_bottom.svg">
-  
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/meheraz1100/meheraz1100/blob/main/light.svg">
-  <img alt="Mosaiyeb Meheraz" src="https://github.com/meheraz1100/meheraz1100/blob/main/light.svg">
-</picture> -->
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=meheraz1100&label=Profile%20views&color=0e75b6&style=flat" alt="meheraz1100" /> </p>
-
-I'm currently pursuing a **Diploma in Telecommunication & Electrical Technology** at **Feni Government Computer Institute (FGCI)**. Alongside my academic journey, I continuously improve my development skills by building real-world projects and learning modern web technologies.
-
+</p>
 
 <h2 align="left">About Me: </h2>
 
