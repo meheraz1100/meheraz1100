@@ -29,12 +29,7 @@
 </table>
 
 <!-- ===== PROFILE VIEWS ===== -->
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=meheraz1100&label=Profile%20views&color=0e75b6&style=flat"
-    alt="meheraz1100"
-  />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=meheraz1100&label=Profile%20views&color=0e75b6&style=flat" alt="meheraz1100" /> </p>
 
 <h2 align="left">About Me: </h2>
 
